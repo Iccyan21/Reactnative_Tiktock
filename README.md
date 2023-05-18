@@ -5,3 +5,4 @@ yarn add @react-navigation/bottom-tabs @react-navigation/native @react-navigatio
 
 yarn add --dev tailwindcss
 ```
+# Reactnative_Tiktock
